@@ -1,0 +1,19 @@
+{
+  "name": "Goldbet",
+  "short_name": "Goldbet",
+  "theme_color": "",
+  "background_color": "#070707",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1770057030-loggedin-logo.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
